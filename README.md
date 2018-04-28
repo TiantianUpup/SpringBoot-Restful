@@ -1,4 +1,4 @@
-# restful_demo   
+# SpringBoot实现restful设计风格
 ###   
 项目用到的框架为spring boot、mybatis、mysql   
 控制层使用了restful架构风格   
